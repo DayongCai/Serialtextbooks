@@ -1,0 +1,7 @@
+# GitBook space 配置（单 space 内容读取）—— 官方键名
+root: ./
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+# 可选：重定向与自定义路径映射
+redirects: {}
