@@ -1,8 +1,8 @@
 ---
-description: 《计算中医学》——中医四诊信息的可计算化：采集—表示—判断—评价
+description: 《中医智能诊断学》——中医四诊信息的可计算化：采集—表示—判断—评价
 ---
 
-# 计算中医学（TCM Intelligent Diagnostics）
+# 中医智能诊断学（TCM Intelligent Diagnostics）
 
 本目录为本书的 **GitBook 标准源码树**：`.gitbook.yaml` 为 space 配置，`SUMMARY.md` 为目录，每章一个 Markdown 页面，插图在 `.gitbook/assets/`。
 
