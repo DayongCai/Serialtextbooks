@@ -1,5 +1,5 @@
 ---
-description: 《中医智能诊断学》——中医四诊信息的可计算化：采集—表示—判断—评价
+description: 《中医智能诊断学》——中医四诊信息的可计算化
 ---
 
 # 中医智能诊断学（TCM Intelligent Diagnostics）
